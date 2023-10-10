@@ -1,8 +1,8 @@
 # Reverse Sentence JavaScript
-
 one.js----
 This is a simple JavaScript program that takes a sentence, splits it into words, and then reverses each word in the sentence. Finally, it prints the original sentence along with the reversed words.
 
+# JavaScript Array Sorting and Reversing
 two.js----
 This is a simple JavaScript program that demonstrates how to sort and reverse an array of numbers.
 
