@@ -29,10 +29,6 @@ Run the JavaScript program(two.js):
 node two.js
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Replace `"your-username"` in the clone URL with your actual GitHub username, and make sure to have Node.js installed to run the JavaScript code. You can customize this README file further to provide more information about your project as needed.
 
 
    
