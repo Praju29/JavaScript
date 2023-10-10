@@ -13,6 +13,9 @@ This is a simple JavaScript program that demonstrates how to sort and reverse an
    ```bash
  git clone https://github.com/Praju29/JavaScript.git
 
+```bash
+git clone https://github.com/your-username/array-sort-reverse-javascript.git
+
 Navigate to the project directory:
 cd JavaScript
 
